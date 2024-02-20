@@ -1,1 +1,2 @@
 # Solar-Secure-Solutions-Internship-Projects
+During my Web Development internship, I spearheaded the creation of multiple impactful projects, demonstrating my proficiency in both front-end and back-end development. Utilizing technologies such as HTML, CSS, JavaScript.  My projects included innovative features, emphasizing user experience and efficient functionality. This experience honed my ability to translate design concepts into fully functional websites, showcasing my adaptability and dedication to delivering high-quality web solutions.
