@@ -1,0 +1,44 @@
+img{
+    border-radius: 5px;
+}
+
+col-md-3{
+    margin: 20px !important;
+}
+
+p{
+    font-weight: 500;
+    font-size: 20px;
+}
+.nav_bar{
+    background-color: #E6AA68;
+}
+li{
+    color:white;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    list-style-type: none;
+    display: inline;
+    margin-left: 30px;
+}
+#navelem{
+    padding: 10px;
+}
+#title{
+    font-size: 30px;
+    font-family:'Times New Roman', Times, serif;
+}
+body{
+    background-color: #ECE4B7;
+}
+
+.foot_panel{
+    height: 80px;
+    background-color: #D36135;
+}
+.text{
+    padding: 15px;
+    color:white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}

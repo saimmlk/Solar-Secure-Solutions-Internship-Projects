@@ -1,0 +1,30 @@
+body{
+    background-image: linear-gradient(to right, #c1c161 0%, #c1c161 0%, #d4d4b1 100%);
+}
+.col-md-6{
+    margin-top: 160px !important;
+    background-image: linear-gradient(to top, #caba7b 0%, #cab560 1%, #afaf40 31%, #97886c 75%, #94947e 100%);
+}
+h1{
+    text-align: center;
+    font-weight: bold !important;
+    margin: 15px !important;
+}
+input{
+    display: inline !important;
+    border: 2px solid black !important;
+    width: 85% !important;
+}
+button{
+    margin-left: 10px !important;
+}
+li{
+    display: inline;
+    font-size: 20px;
+    list-style-type: none;
+    align-items:center !important;
+}
+i{
+    color: red;
+    margin-left: 10px;
+}
